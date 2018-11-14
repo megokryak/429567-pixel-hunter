@@ -1,7 +1,7 @@
 # Личный проект «Пиксель хантер» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Митрофанов](https://up.htmlacademy.ru/ecmascript/7/user/429567).
-* Наставник: `Максим`.
+* Наставник: [Максим Синяков](https://htmlacademy.ru/profile/id170345).
 
 ---
 
